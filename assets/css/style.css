@@ -1,0 +1,180 @@
+body {
+	background: #FFCCD5;
+	overflow-x: hidden;
+}
+
+header {
+	padding-top: 130px;
+	padding-left: 250px;
+	color: #65350F;
+}
+
+.sidenav {
+	font-family: 'Josefin Sans', sans-serif;
+	height: 100%; 
+ 	width: 240px; 
+  	position: fixed; 
+  	z-index: 5;
+  	top: 0; 
+  	left: 0;
+  	background-color: #CCE4FF;
+  	overflow-x: hidden; 
+  	padding-top: 160px;
+}
+
+.sidenav a {
+  	padding: 35px 8px 10px 0px;
+  	text-decoration: none;
+  	font-size: 30px;
+  	color: black; 
+  	display: block;
+  	text-align: center;
+}
+
+.sidenav a:hover {
+  	color: gray;
+}
+
+.content {
+	font-family: 'Permanent Marker', cursive;
+	text-align: center;
+	line-height: 150px;
+}
+
+#title {
+	font-size: 70px;
+}
+
+#title2 {
+	font-size: 90px;
+}
+
+#scroll {
+	font-size: 25px;
+	color: gray;
+	font-family: 'Josefin Sans', sans-serif;
+	margin-top: 150px;
+	line-height: 30px;
+}
+
+#scroll2 {
+	font-size: 30px;
+	color: gray;
+	font-family: 'Josefin Sans', sans-serif;
+	margin-top: 0px;
+	line-height: 30px;
+}
+
+#scroll:hover {
+	opacity: 0.6;
+}
+
+h1 {
+	font-size: 35px;
+	color: #65350F;
+	font-family: 'Emilys Candy', cursive;
+}
+
+#beijing, #berkeley, #guangzhou {
+	margin-top: 100px;
+	margin-left: 310px;
+}
+
+.pictures {
+	margin-top: 60px;
+	margin-left: 0px;
+}
+
+.row {
+	display: flex;
+	flex-direction: row;
+	margin-top: 80px;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+.item img{
+	max-height: 330px;
+	max-width: 330px;
+}
+
+.row2 {
+	display: flex;
+	flex-direction: row;
+	margin-top: 30px;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+.item2 {
+	font-family: 'ZCOOL XiaoWei', serif;
+	color: #65350F;
+	max-width: 1000px;
+	font-size: 25px;
+	text-align: center;
+	line-height: 30px;
+}
+
+#tbc {
+	padding-top: 200px;
+	padding-left: 250px;
+	font-size: 70px;
+	color: #69306d;
+	opacity: 90%;
+}
+
+.container {
+	text-align: center;
+	line-height: 150px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding-top: 50px;
+	padding-left: 220px;
+	padding-bottom: 280px;
+}
+
+.dot1, .dot2, .dot3 {
+	margin-left: 20px;
+	height: 20px;
+	width: 20px;
+	border-radius: 15px;
+	background-color: #69306d;
+	animation-name: wave;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+	opacity: 90%;
+}
+
+.dot2 {
+	animation-delay: 0.1s;
+}
+
+.dot3 {
+	animation-delay: 0.2s;
+}
+
+#scroll, #scroll2 {
+	animation-name: wave2;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+
+#scroll {
+	animation-delay: 0.1s;
+}
+
+@keyframes wave {
+	0% {transform: translateY(0);}
+	25% {transform: translateY(0);}
+	50% {transform: translateY(50%);}
+	75% {transform: translateY(1);}
+	100% {transform: translateY(1);}
+}
+
+@keyframes wave2 {
+	0% {transform: translateY(0);}
+	50% {transform: translateY(50%);}
+	100% {transform: translateY(1);}
+}

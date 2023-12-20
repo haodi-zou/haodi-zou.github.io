@@ -1,97 +1,136 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Haodi Zou
-    - name: Date of Birth
-      value: 24th Nov 2000
-    - name: Languages
-      value: English (fluent), Mandarin (native)
+    - name: Email
+      value: haodi [dot] zou [at] berkeley [dot] edu
+    - name: Location
+      value: Berkeley, CA
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    # - title: PhD
+    #   institution: University of Zurich, Zurich, Switzerland
+    #   year: 1905
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
+    #     - title: Description 3.
+    #       contents:
+    #         - Sub-description 1.
+    #         - Sub-description 2.
+    - title: B.A. in Computer Science
+      institution: University of California, Berkeley
+      year: Aug 2019 - Dec 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - GPA - 4.0/4.0
+        - title: Honors & Awards
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - UC Berkeley EECS Evergreen Undergraduate Research Award
+            - Member of UC Berkeley UPE (Computer Science Honor Society)
+            - Member of Phi Beta Kappa (Academic Honor Society)
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Facilitating Health Communication with Large Language Models
+      institution: Undergraduate Student Researcher @ <a href="https://www.ischool.berkeley.edu/">UC Berkeley School of Information</a> TO3 Lab
+      year: Sep 2023 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Advised by Professor <a href="https://niloufar.org/">Niloufar Salehi</a>
+        - Designed and built SAGE (System for Accessible Guided Exploration), a web system that leverages large language models to help patients with varying health literacy levels identify and fill gaps in their understanding of healthcare information
+
+    - title: Empowering Online Harm Survivors Through Structured Sensemaking
+      institution: Undergraduate Student Researcher @ <a href="https://www.ischool.berkeley.edu/">UC Berkeley School of Information</a> TO3 Lab
+      year: Feb - Sep 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Advised by Professors <a href="https://niloufar.org/">Niloufar Salehi</a> and <a href="https://people.ischool.berkeley.edu/~coye/">Coye Cheshire</a>
+        - Designed and implemented SnuggleSense, a web system that guides online harm survivors through reflective questions, provides personalized suggestions from peers, and visualizes action plans using interactive sticky notes
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Reducing Hallucination of Image Captioning Models
+      institution: Undergraduate Student Researcher @ <a href="https://bair.berkeley.edu/">Berkeley Artificial Intelligence Research (BAIR)</a>
+      year: Feb 2023 - Now
       description:
+        - Advised by Professors <a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>, <a href="https://people.eecs.berkeley.edu/~jfc/">John Canny</a>, and <a href="https://people.eecs.berkeley.edu/~jegonzal/">Joseph Gonzalez</a>
+        - Enhanced the OCR recall rate of the IC3 image captioning model by 28.2%. Integrated confidence information from multiple captions into a large language model to improve caption quality.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    # - title: Professor of Theoretical Physics
+    #   institution: Institute for Advanced Study, Princeton University
+    #   year: 1933 - 1955
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
+    #     - title: Description 3.
+    #       contents:
+    #         - Sub-description 1.
+    #         - Sub-description 2.
+    # - title: Visiting Professor
+    #   institution: California Institute of Technology, Pasadena, California, US
+    #   year: 1933
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
 
-- title: Open Source Projects
+    # - title: Professor of Theoretical Physics
+    #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
+    #   year: 1911 - 1917
+    #   description:
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Industry Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Software Engineer Intern @ <a href="https://www.amazon.com/">Amazon.com, Inc.</a>
+      year: May - Aug 2022
+      description: Developed a visual experience feature displaying entities in user queries and Alexa responses on Alexa‑enabled devices
+    - title: Software Engineer Intern @ <a href="https://www.microsoft.com/">Microsoft Corporation</a>
+      year: June - Aug 2021
+      description: Developed a text search feature in OneDrive's PDF Viewer on Android, which queries an entity search service and displays comprehensive results (including text definition, related multimedia, articles, and more)
 
-- title: Honors and Awards
-  type: time_table
+- title: Skills
+  type: map
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - name: Languages
+      value: Python, Java, C, C++, JavaScript, HTML, CSS, SQL, Go, RISC‑V Assembly
+    - name: Libraries & Frameworks
+      value: D3.js, Flask, Scikit‑Learn, OpenCV
+    - name: Tools & Platforms
+      value: Sketch, Figma, MAXQDA, Google Cloud Platform, Git, LaTeX
+    - name: Research Methods 
+      value: Interviews, Quantitative Data Analysis, Qualitative Data Analysis, Data Visualization
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

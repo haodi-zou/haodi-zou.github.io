@@ -6,7 +6,7 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: zhd.jpg
+  image: zhd2.jpg
   image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p></p>
@@ -16,9 +16,13 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-👋 Hi! I'm Haodi Zou (邹灏迪). I'm a senior undergraduate student at [UC Berkeley](https://eecs.berkeley.edu/), majoring in Computer Science 👩🏻‍💻.
+👋 Hi! I'm Haodi Zou (邹灏迪). I'm an incoming Ph.D. student in Computer Science at [UC San Diego](https://cse.ucsd.edu/), advised by Prof. [Deepak Kumar](https://kumarde.com/). My research interests lie in human-computer interaction, social computing, and online harm.
 
-**🔍 Research**
+Before coming to UCSD, I obtained my Bachelor's degree in Computer Science at [UC Berkeley](https://eecs.berkeley.edu/). At Berkeley, I've been fortunate to engage in research on social computing and human-centered AI in Prof. [Niloufar Salehi](https://niloufar.org/)'s research group.
+
+Besides academic research, I've also interned at [Microsoft](https://www.microsoft.com/) and [Amazon](https://www.amazon.com/) as a software engineer.
+
+<!-- **🔍 Research**
 
 At Berkeley, I've engaged in research on **human-computer interaction** and **social computing** under the guidance of Professors [Niloufar Salehi](https://niloufar.org/), [Coye Cheshire](https://people.ischool.berkeley.edu/~coye/), and PhD candidate [Sijia Xiao](https://applexiao.com/). My work focuses on building systems to empower online harm survivors through a restorative justice framework.
 
@@ -30,4 +34,4 @@ My research experience also extends to the [Berkeley Artificial Intelligence Res
 
 Besides academic research, I've also interned at [Microsoft](https://www.microsoft.com/) and [Amazon](https://www.amazon.com/) as a software engineer.
 
-**📸 [Photography](https://haodi-zou.github.io/photography/)**
+**📸 [Photography](https://haodi-zou.github.io/photography/)** -->

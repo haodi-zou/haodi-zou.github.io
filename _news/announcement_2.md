@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduated from [UC Berkeley](https://eecs.berkeley.edu/) with Highest Distinction! :mortar_board:
+I graduated from [UC Berkeley](https://eecs.berkeley.edu/) with Highest Distinction :mortar_board:

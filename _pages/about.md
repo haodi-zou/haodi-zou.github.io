@@ -16,7 +16,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-👋 Hi! I'm Haodi Zou (邹灏迪). I'm a 1st-year Ph.D. student in Computer Science at [UC San Diego](https://cse.ucsd.edu/), advised by Prof. [Deepak Kumar](https://kumarde.com/). My research interests lie in human-computer interaction, social computing, and online harm.
+👋 Hi! I'm Haodi Zou (邹灏迪). I'm a 1st-year Ph.D. student in Computer Science at [University of California San Diego](https://cse.ucsd.edu/), advised by Prof. [Deepak Kumar](https://kumarde.com/). My research interests lie in human-computer interaction, social computing, and online harm.
 
 Before coming to UCSD, I obtained my Bachelor's degree in Computer Science at [UC Berkeley](https://eecs.berkeley.edu/). At Berkeley, I've been fortunate to engage in research on social computing and human-centered AI in Prof. [Niloufar Salehi](https://niloufar.org/)'s research group.
 

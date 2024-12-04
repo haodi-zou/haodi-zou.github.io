@@ -23,7 +23,11 @@
     #         - Sub-description 2.
     - title: Ph.D. in Computer Science
       institution: University of California, San Diego
-      year: Sep 2024 -
+      year: Sep 2024 - Present
+      description:
+        - Advised by Professor <a href="https://kumarde.com/">Deepak Kumar</a>
+        - Research Areas - Sociotechnical Cybersecurity, Human-Computer Interaction
+        - Awarded the UC San Diego Jacobs School of Engineering Fellowship
     - title: B.A. in Computer Science
       institution: University of California, Berkeley
       year: Aug 2019 - Dec 2023
@@ -38,26 +42,30 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Empowering Online Harm Survivors Through Structured Sensemaking
-      institution: Undergraduate Student Researcher @ <a href="https://www.ischool.berkeley.edu/">UC Berkeley School of Information</a> TO3 Lab
-      year: Feb 2023 - Present
-      description:
-        - Advised by Professors <a href="https://niloufar.org/">Niloufar Salehi</a> and <a href="https://people.ischool.berkeley.edu/~coye/">Coye Cheshire</a>
-        - Designed and implemented SnuggleSense, a web system that guides online harm survivors through reflective questions, provides personalized suggestions from peers, and visualizes action plans using interactive sticky notes
+    - title: Graduate Researcher
+      institution: <a href="https://cse.ucsd.edu/">UC San Diego Computer Science and Engineering (CSE) Department</a>, advised by Professor <a href="https://kumarde.com/">Deepak Kumar</a>
+      year: Sep 2024 - Present
 
-    - title: Facilitating Health Communication with Large Language Models
-      institution: Undergraduate Student Researcher @ <a href="https://www.ischool.berkeley.edu/">UC Berkeley School of Information</a> TO3 Lab
-      year: Sep 2023 - Apr 2024
-      description:
-        - Advised by Professor <a href="https://niloufar.org/">Niloufar Salehi</a>
-        - Designed and built SAGE (System for Accessible Guided Exploration), a web system that leverages large language models to help patients with varying health literacy levels identify and fill gaps in their understanding of healthcare information
+    - title: Undergraduate Researcher # Empowering Online Harm Survivors Through Structured Sensemaking
+      institution: <a href="https://www.ischool.berkeley.edu/">UC Berkeley School of Information</a>, advised by Professor <a href="https://niloufar.org/">Niloufar Salehi</a>
+      year: Feb 2023 - July 2024
+      # description:
+      #   - Advised by Professors <a href="https://niloufar.org/">Niloufar Salehi</a> and <a href="https://people.ischool.berkeley.edu/~coye/">Coye Cheshire</a>
+      #   # - Designed and implemented SnuggleSense, a web system that guides online harm survivors through reflective questions, provides personalized suggestions from peers, and visualizes action plans using interactive sticky notes
 
-    - title: Reducing Hallucination of Image Captioning Models
-      institution: Undergraduate Student Researcher @ <a href="https://bair.berkeley.edu/">Berkeley Artificial Intelligence Research (BAIR)</a>
-      year: Feb 2023 - Dec 2023
-      description:
-        - Advised by Professors <a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>, <a href="https://people.eecs.berkeley.edu/~jfc/">John Canny</a>, and <a href="https://people.eecs.berkeley.edu/~jegonzal/">Joseph Gonzalez</a>
-        - Enhanced the OCR recall rate of the IC3 image captioning model by 28.2%. Integrated confidence information from multiple captions into a large language model to improve caption quality.
+    # - title: Facilitating Health Communication with Large Language Models
+    #   institution: Undergraduate Student Researcher @ <a href="https://www.ischool.berkeley.edu/">UC Berkeley School of Information</a>
+    #   year: Sep 2023 - Apr 2024
+    #   description:
+    #     - Advised by Professor <a href="https://niloufar.org/">Niloufar Salehi</a>
+    #     # - Designed and built SAGE (System for Accessible Guided Exploration), a web system that leverages large language models to help patients with varying health literacy levels identify and fill gaps in their understanding of healthcare information
+
+    - title: Undergraduate Researcher # Reducing Hallucination of Image Captioning Models
+      institution: <a href="https://bair.berkeley.edu/">Berkeley Artificial Intelligence Research (BAIR)</a>, advised by Professor <a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>
+      year: Feb 2023 - Jan 2024
+      # description:
+      #   - Advised by Professors <a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>, <a href="https://people.eecs.berkeley.edu/~jfc/">John Canny</a>, and <a href="https://people.eecs.berkeley.edu/~jegonzal/">Joseph Gonzalez</a>
+      #   # - Enhanced the OCR recall rate of the IC3 image captioning model by 28.2%. Integrated confidence information from multiple captions into a large language model to improve caption quality.
 
     # - title: Professor of Theoretical Physics
     #   institution: Institute for Advanced Study, Princeton University
@@ -93,10 +101,10 @@
   contents:
     - title: Software Engineer Intern @ <a href="https://www.amazon.com/">Amazon.com, Inc.</a>
       year: May - Aug 2022
-      description: Developed a visual experience feature displaying entities in user queries and Alexa responses on Alexa‑enabled devices
+      # description: Developed a visual experience feature displaying entities in user queries and Alexa responses on Alexa‑enabled devices
     - title: Software Engineer Intern @ <a href="https://www.microsoft.com/">Microsoft Corporation</a>
       year: June - Aug 2021
-      description: Developed a text search feature in OneDrive's PDF Viewer on Android, which queries an entity search service and displays comprehensive results (including text definition, related multimedia, articles, and more)
+      # description: Developed a text search feature in OneDrive's PDF Viewer on Android, which queries an entity search service and displays comprehensive results (including text definition, related multimedia, articles, and more)
 
 - title: Skills
   type: map

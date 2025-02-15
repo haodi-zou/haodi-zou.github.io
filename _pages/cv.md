@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/CV_HaodiZou_121524.pdf
+permalink: /assets/pdf/CV_HaodiZou_021525.pdf
 title: cv
 nav: true
 nav_order: 2

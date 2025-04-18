@@ -10,7 +10,12 @@ RUN apt-get update -y && apt-get install -y --no-install-recommends \
     build-essential \
     zlib1g-dev \
     jupyter-nbconvert \
-    inotify-tools procps && \
+    inotify-tools \
+    procps \
+    nodejs \
+    graphviz \
+    libv8-dev \
+    python3 && \
     apt-get clean && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
 
 
@@ -28,7 +33,7 @@ RUN gem install jekyll bundler
 
 RUN mkdir /srv/jekyll
 
-ADD Gemfile /srv/jekyll
+COPY Gemfile Gemfile.lock /srv/jekyll/
 
 WORKDIR /srv/jekyll
 

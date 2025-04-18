@@ -3,7 +3,7 @@ group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
-    # gem 'jekyll-diagrams'
+    gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-get-json'
@@ -18,7 +18,7 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     # gem 'mini_racer'
-    # gem 'unicode_utils'
+    gem 'unicode_utils'
     gem 'webrick'
     gem 'observer'
 end

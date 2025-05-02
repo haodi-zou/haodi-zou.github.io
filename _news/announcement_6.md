@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper SnuggleSense: Empowering Online Harm Survivors Through a Structured Sensemaking Process is accepted to CSCW 2025.
+Our paper [SnuggleSense: Empowering Online Harm Survivors Through a Structured Sensemaking Process](https://arxiv.org/abs/2504.19158) is accepted to CSCW 2025.

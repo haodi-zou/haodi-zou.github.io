@@ -33,7 +33,7 @@ RUN gem install jekyll bundler
 
 RUN mkdir /srv/jekyll
 
-COPY Gemfile Gemfile.lock /srv/jekyll/
+COPY Gemfile /srv/jekyll/
 
 WORKDIR /srv/jekyll
 

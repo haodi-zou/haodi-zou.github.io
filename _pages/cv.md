@@ -1,11 +1,8 @@
 ---
-layout: cv
-permalink: /assets/pdf/CV_HaodiZou_Aug25.pdf
+layout: page
+permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-cv_pdf:
-description: 
-toc:
-  sidebar: 
+redirect_to: /assets/pdf/CV_HaodiZou_Aug25.pdf
 ---

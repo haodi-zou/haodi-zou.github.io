@@ -16,9 +16,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-👋 Hi! I'm Haodi Zou, a rising 2nd-year Ph.D. student in Computer Science at [University of California San Diego](https://cse.ucsd.edu/), advised by Prof. [Deepak Kumar](https://kumarde.com/). My research interests lie in sociotechnical security, human-computer interaction, and human-AI collaboration.
+👋 Hi! I'm Haodi Zou, a PhD student in Computer Science at [University of California San Diego](https://cse.ucsd.edu/), advised by Prof. [Deepak Kumar](https://kumarde.com/). My research interests lie in sociotechnical safety, responsible AI, and human-AI collaboration.
 
-Before coming to UCSD, I obtained my bachelor's degree in Computer Science at [UC Berkeley](https://eecs.berkeley.edu/). At Berkeley, I was fortunate to engage in research in the groups of Prof. [Niloufar Salehi](https://niloufar.org/) and Prof. [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/).
+Before coming to UCSD, I obtained my bachelor's degree in Computer Science at [UC Berkeley](https://eecs.berkeley.edu/), graduating with Highest Distinction. At Berkeley, I was fortunate to engage in research in the groups of Prof. [Niloufar Salehi](https://niloufar.org/) and Prof. [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/).
 
 Besides academic research, I've also interned at [Microsoft](https://www.microsoft.com/) and [Amazon](https://www.amazon.com/) as a software engineer.
 
